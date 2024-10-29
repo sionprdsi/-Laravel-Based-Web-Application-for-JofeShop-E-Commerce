@@ -1,7 +1,5 @@
 # JofeShop E-Commerce Web Application
 
-### Laravel-Based E-Commerce Solution for JoFe Bakery
-
 ## Summary
 
 The **JofeShop E-Commerce Application** is designed to extend JoFe Bakery’s reach by providing a seamless online platform for customers to explore products, place orders, and communicate via WhatsApp. The application caters to three distinct user types—admin, visitor, and buyer—with unique functionalities for each role. It is built on Laravel, offering a smooth and efficient e-commerce experience.
