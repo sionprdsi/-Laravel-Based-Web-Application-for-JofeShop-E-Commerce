@@ -1,5 +1,15 @@
 # JofeShop E-Commerce Web Application
 
+### <summary><strong>Tools:</strong></summary>
+<p>
+    <img src="https://img.shields.io/badge/Code-PHP-blue?logo=php" />
+    <img src="https://img.shields.io/badge/Framework-Laravel-red?logo=laravel" />
+    <img src="https://img.shields.io/badge/Database-MySQL-orange?logo=mysql" />
+    <img src="https://img.shields.io/badge/Frontend-Bootstrap-5A5A5A?logo=bootstrap" />
+    <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visualstudiocode" />
+    <img src="https://img.shields.io/badge/Design-Figma-blue?logo=figma" />
+</p>
+
 ## Summary
 
 The **JofeShop E-Commerce Application** is designed to extend JoFe Bakery’s reach by providing a seamless online platform for customers to explore products, place orders, and communicate via WhatsApp. The application caters to three distinct user types—admin, visitor, and buyer—with unique functionalities for each role. It is built on Laravel, offering a smooth and efficient e-commerce experience.
