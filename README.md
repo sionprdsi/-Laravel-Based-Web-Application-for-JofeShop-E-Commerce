@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/Framework-Laravel-red?logo=laravel" />
     <img src="https://img.shields.io/badge/Database-MySQL-orange?logo=mysql" />
     <img src="https://img.shields.io/badge/Frontend-Bootstrap-5A5A5A?logo=bootstrap" />
+    <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?logo=react" />
     <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visualstudiocode" />
     <img src="https://img.shields.io/badge/Design-Figma-blue?logo=figma" />
 </p>
