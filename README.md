@@ -1,4 +1,4 @@
-# JofeShop E-Commerce Web Application
+# JofeShop E-Commerce Web Application.
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
